@@ -4,7 +4,8 @@ Humpback Chub population viability model example R code
 
 These five scripts demonstrate the population viability analysis (PVA) used in the Pine et al. paper. They contain the model assumptions and equations, but leave out the code used to format the tables and figures for NAJFM. They are examples and not an exact reproduction package for every published table and figure.
 
-You need only R or RStudio. No extra R packages, input files, or directory setup are needed.
+You only need R. This version of the PVA is developed to run with no extra R packages, input files, or directory setup.
+
 How to run
 1. Download and unzip the folder. Keep the five .R files together.
 2. Open RStudio and set the working directory to the folder containing these files (Session > Set Working Directory > Choose Directory).
